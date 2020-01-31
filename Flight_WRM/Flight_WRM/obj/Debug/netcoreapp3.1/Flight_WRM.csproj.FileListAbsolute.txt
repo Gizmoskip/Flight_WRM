@@ -1,0 +1,11 @@
+C:\Users\gismo\Source\Repos\Flight_WRM\Flight_WRM\bin\Debug\netcoreapp3.1\Flight_WRM.exe
+C:\Users\gismo\Source\Repos\Flight_WRM\Flight_WRM\bin\Debug\netcoreapp3.1\Flight_WRM.deps.json
+C:\Users\gismo\Source\Repos\Flight_WRM\Flight_WRM\bin\Debug\netcoreapp3.1\Flight_WRM.runtimeconfig.json
+C:\Users\gismo\Source\Repos\Flight_WRM\Flight_WRM\bin\Debug\netcoreapp3.1\Flight_WRM.runtimeconfig.dev.json
+C:\Users\gismo\Source\Repos\Flight_WRM\Flight_WRM\bin\Debug\netcoreapp3.1\Flight_WRM.dll
+C:\Users\gismo\Source\Repos\Flight_WRM\Flight_WRM\bin\Debug\netcoreapp3.1\Flight_WRM.pdb
+C:\Users\gismo\Source\Repos\Flight_WRM\Flight_WRM\obj\Debug\netcoreapp3.1\Flight_WRM.csprojAssemblyReference.cache
+C:\Users\gismo\Source\Repos\Flight_WRM\Flight_WRM\obj\Debug\netcoreapp3.1\Flight_WRM.AssemblyInfoInputs.cache
+C:\Users\gismo\Source\Repos\Flight_WRM\Flight_WRM\obj\Debug\netcoreapp3.1\Flight_WRM.AssemblyInfo.cs
+C:\Users\gismo\Source\Repos\Flight_WRM\Flight_WRM\obj\Debug\netcoreapp3.1\Flight_WRM.dll
+C:\Users\gismo\Source\Repos\Flight_WRM\Flight_WRM\obj\Debug\netcoreapp3.1\Flight_WRM.pdb
